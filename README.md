@@ -1,4 +1,9 @@
 # FaceFuck
+*PLEASE NOTE THAT FACEBOOK HAVE UPDATED THEIR WEBSITE.
+This method no longer works. 
+
+I am currently working on a new version although this may take some time as I am busy on other projects...
+
 A simple script that cracks facebook passwords - Proof of concept only
 
 I am not responsible for what you do with this code. It is proof of concept only. Over time this code made need some tweaking so it still works.
